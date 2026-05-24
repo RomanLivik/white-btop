@@ -15,7 +15,7 @@ I didn't test this config on other distributions. I think that it will be work c
 
 ## Installation (universal)
 ```
-git clone https://github.com/GadzhievAleksandr/white-btop
+https://github.com/S0LYER/white-btop
 mkdir -p ~/.config/btop/themes
 cd ~/white-btop
 cp white.theme ~/.config/btop/themes
